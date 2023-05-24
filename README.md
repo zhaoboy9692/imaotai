@@ -24,3 +24,5 @@ i茅台自动预约
 只支持目前的推送公众号plustoken
 ![file](https://zhaoxincheng.com/wp-content/uploads/2023/05/2023052406101438.png)
 [![](http://zhaoxincheng.com/wp-content/uploads/2021/11/2021110910052362.jpeg)](http://zhaoxincheng.com/wp-content/uploads/2021/11/2021110910052362.jpeg)
+
+此脚本仅用于学习交流，请勿用于非法途径
